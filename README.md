@@ -1,3 +1,3 @@
 # Sem-2-files
 
-hi guys this a program on c double ended queue or deque in C language
+hi guys here i will upload my sem 2 questions 
